@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "115960683515",
+    "project_id": "uniride-b30f0",
+    "storage_bucket": "uniride-b30f0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115960683515:android:7fdbc17213ec536f91895e",
+        "android_client_info": {
+          "package_name": "com.example.uniride"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoOkdlSfMJ_3VfzH5_MbflmnjHbxZVmZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115960683515:android:1e2ec58e54f7252291895e",
+        "android_client_info": {
+          "package_name": "com.example.uniride_new"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoOkdlSfMJ_3VfzH5_MbflmnjHbxZVmZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
