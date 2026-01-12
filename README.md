@@ -22,21 +22,21 @@ UniRide is a comprehensive ride-sharing application built with Flutter, designed
 ![Onboarding 3](assets/images/onboard3.jpg)
 
 ### Authentication
-![Login Screen](assets\screenshots\login_screen.png)
-![Signup Screen](assets\screenshots\signUp_screen.png)
+![Login Screen](assets/screenshots/login_screen.png)
+![Signup Screen](assets/screenshots/signUp_screen.png)
 
 ### Home Screens
-![Home Screen](\assets\screenshots\home_screen.png)
-![Find Ride Screen](assets\screenshots\find_ride_screen.png)
-![Offer Ride Screen](assets\screenshots\offer_ride_screen.png)
+![Home Screen](/assets/screenshots/home_screen.png)
+![Find Ride Screen](assets/screenshots/find_ride_screen.png)
+![Offer Ride Screen](assets/screenshots/offer_ride_screen.png)
 
 ### Ride Details and Chat
-![Ride Details Screen](assets\screenshots\ride_details_screen.png)
-![Chat Screen](assets\screenshots\chat_screen.png)
+![Ride Details Screen](assets/screenshots/ride_details_screen.png)
+![Chat Screen](assets/screenshots/chat_screen.png)
 
 ### Profile and Payments
-![Profile Screen](assets\screenshots\profile_screen.png)
-![Payment Screen](assets\screenshots\payment_screen.png)
+![Profile Screen](assets/screenshots/profile_screen.png)
+![Payment Screen](assets/screenshots/payment_screen.png)
 
 
 
